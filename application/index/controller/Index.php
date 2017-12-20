@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-       echo __METHOD__;
+       echo "hhh";
     }
 }
